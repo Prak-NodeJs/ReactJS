@@ -1,0 +1,52 @@
+.buttonpop {
+  background-color: rgb(38, 38, 53);
+  color: #fff;
+  width: 150px;
+  height: 50px;
+  border-radius: 10%;
+}
+
+.whole {
+  text-align: center;
+  margin-top: 10%;
+}
+
+.modelbackground {
+  margin-left: 35%;
+  margin-top: 10%;
+  margin-bottom: 40px;
+  padding: 40px;
+  height: 400px;
+  width: 500px;
+  background-color: #fff;
+  box-shadow: 2px 2px 10px 10px wheat;
+}
+
+.title {
+  margin-top: 40px;
+  margin-bottom: 70px;
+}
+
+.xbtn {
+  margin-left: -5px;
+  background-color: rgb(211, 13, 13);
+  color: black;
+  border: none;
+}
+.body {
+  margin-bottom: 90px;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.popbtn {
+  background-color: blueviolet;
+  color: white;
+  border: none;
+  height: 40px;
+  width: 120px;
+  border-radius: 2px;
+}
